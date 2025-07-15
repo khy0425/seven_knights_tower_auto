@@ -1,0 +1,8 @@
+{
+  "match_threshold": 0.7,
+  "click_delay": 1.0,
+  "state_check_interval": 0.5,
+  "state_timeout": 30,
+  "max_retries": 3,
+  "screenshot_on_error": true
+}
